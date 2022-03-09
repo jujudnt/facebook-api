@@ -5,6 +5,7 @@
 ## START
 
 npm install
+npm run dev
 
 ## Prisma Models
 
